@@ -1,2 +1,1 @@
-# NGPTLpp
-The ultimate language
+**April Fool**
